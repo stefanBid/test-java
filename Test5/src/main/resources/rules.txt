@@ -1,0 +1,7 @@
+INSERT [position: 3, size: 10, lines: [    <div class="right-guide-box off-canvas position-right medium",          id="product-modal-pendantHeightSize" data-off-canvas data-transition="overlap"> <button,             type="button" class="close close-button close-right-guide-box" data-dismiss="alert",             aria-label="Close">,         <svg aria-hidden="true" width="15" height="15"> <use,                 href="/on/demandware.static/Sites-IT-Site/-/it_IT/v1680183840978/images/sprite.svg#close",         />,         </svg> </button>,         <div class="block-content-pendant-height block-content"></div>,     </div>]]
+INSERT [position: 34, size: 1, lines: [         id="product-modal-careInstruction" data-off-canvas data-transition="overlap"> <button]]
+REMOVE [position: 24, size: 1, lines: [         id="product-modal-pendantHeightSize" data-off-canvas data-transition="overlap"> <button]]
+INSERT [position: 41, size: 1, lines: [        <div class="block-content-care-instruction block-content"><p>paragraph</p></div>]]
+REMOVE [position: 31, size: 1, lines: [        <div class="block-content-pendant-height block-content"></div>]]
+INSERT [position: 44, size: 1, lines: [         id="product-modal-addedElement" data-off-canvas data-transition="overlap"> <button]]
+REMOVE [position: 34, size: 1, lines: [         id="product-modal-careInstruction" data-off-canvas data-transition="overlap"> <button]]
